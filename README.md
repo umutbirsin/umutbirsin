@@ -17,7 +17,6 @@ critically analyze concrete situations with my technical skills in data science 
 ## Contact
 
 Feel free to reach out to me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-MyLinkedİnProfile-blue)]([https://www.linkedin.com/in/umutbirsin](https://www.linkedin.com/in/umut-birsin-0ba045b2/))
 - Email: [umut.birsin0@gmail.com]
 
 <!---

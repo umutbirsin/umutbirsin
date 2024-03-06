@@ -2,22 +2,25 @@
 
 ## About Me
 
-I graduated from KODLASAM Data Analytics Bootcamp as a Data Analyst with a passion for extracting meaningful insights from complex
-datasets. My journey in the world of data has equipped me with the skills and knowledge to make data-driven
-decisions that lead to tangible business outcomes. I believe that combining my diverse perspective gained through
-various fields of work and civil society projects, strong interpersonal skills, storytelling abilities, and my ability to
-critically analyze concrete situations with my technical skills in data science sets me apart.
+I am a dedicated and self-learning Data Analyst with a passion for deriving meaningful insights from complex data sets. My journey in the world of data has equipped me with the skills and knowledge to make data-driven decisions that lead to tangible business results.
+
+From SQL and Python to Looker Studio and Tableau, I am well-versed in a variety of tools and programming languages commonly used in the data analytics environment. I am constantly researching new technologies to stay at the forefront of this rapidly evolving field.
+
+After acquiring a technical background, I shifted my focus to the mobile gaming industry, where my interest and curiosity are exceptionally high. As I continue to enhance my skills in mobile game analysis, I develope in projects and write articles.
+
 
 ## Skills
-
-- Data analysis with SQL 
-- Data analysis with Python 
-- Data visualization and dashboard creation with Power BI
+- BiqQuery
+- Looker Studio 
+- PostgreSQL 
+- Python 
+- Power BI
 
 ## Contact
 
 Feel free to reach out to me:
 - Email: [umut.birsin0@gmail.com]
+- Linkedin : https://www.linkedin.com/in/umutbirsin/
 
 <!---
 umutbirsin/umutbirsin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

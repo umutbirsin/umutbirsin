@@ -10,6 +10,7 @@ After acquiring a technical background, I shifted my focus to the mobile gaming 
 
 
 ## Skills
+- Mobile Game Analysis
 - BiqQuery
 - Looker Studio 
 - PostgreSQL 

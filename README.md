@@ -14,7 +14,8 @@ After acquiring a technical background, I shifted my focus to the mobile gaming 
 - BiqQuery
 - Looker Studio 
 - PostgreSQL 
-- Python 
+- Python
+- Tableau 
 - Power BI
 
 ## Contact
